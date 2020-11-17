@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.addBtn{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    padding: 4px 10px;
+
+}
+.dltABtn{
+    background-color:red;
+    color: white;
+    font-weight: bold;
+    padding: 4px 10px;
+}
+.dltItem{
+    background-color: rgb(5, 36, 128);
+    color: white;
+    font-weight: bold;
+    padding: 4px 10px;
+    margin: 0px 15px 0px 300px;
+    border: red solid;
+}
+.edtItem{
+    background-color: rgb(5, 36, 128);
+    color: white;
+    font-weight: bold;
+    padding: 4px 10px;
+}
+.input{
+    margin: 30px 0px 30px 0px;
+}
+.items{
+    text-align: left;
+    font-weight: bolder;
+    font-size: x-large;
+    
+}
+.listedItem{
+    border-bottom: rgb(5, 36, 128) solid;
+    padding: 30px;
+}
+.header{
+    background-color: rgb(5, 36, 128);
+    margin-top: 0;
+    color: white;
+    font-size: large;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
